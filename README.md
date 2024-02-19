@@ -1,9 +1,9 @@
 **# atm_simulator_by_anas_jamal
 **ATM Machine Simulator**
-**Description**
+**Description**	
 This project is an ATM machine simulator created in Python. It allows users to perform basic ATM transactions such as checking balance, withdrawing money, depositing money, and exiting the program. The simulator also includes basic error handling for insufficient balance and invalid transactions.
 
-**Features**
+**Features**	
 *Check balance
 *Withdraw money
 *Deposit money
